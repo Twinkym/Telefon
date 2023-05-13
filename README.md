@@ -8,5 +8,5 @@ Les interfícies Camera i Rellotge tenen un únic mètode cada una: "fotografiar
 La classe Smartphone implementa els mètodes "fotografiar()" i "alarma()" de les interfícies Camera i Rellotge, i hereta el mètode "trucar()" de Telèfon.
 
 Finalment, des del main(), es crea un objecte Smartphone i s'hi criden els mètodes "trucar()", "fotografiar()" i "alarma()".
-<img src="https://github.com/Twinkym/Telefon/blob/master/src/Img/JAVA_INTERFACES.png
-"></img>
+![https://github.com/Twinkym/Telefon/blob/master/src/Img/JAVA_INTERFACES.png](https://github.com/Twinkym/Telefon/blob/master/src/Img/JAVA_INTERFACES.png)
+
